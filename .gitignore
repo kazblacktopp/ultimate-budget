@@ -25,5 +25,4 @@ dist-ssr
 
 .gitignore
 .prettierrc
-.eslintrc.cjs
 package-lock.json
